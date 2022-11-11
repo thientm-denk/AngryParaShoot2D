@@ -10,8 +10,8 @@
 ## Description
 - This is a mini project shooting game
 - Click and drag to shoot (Like angry bird)
-- New random targer will drop if you hit a target
-- Try this game at:
+- New random target will drop if you hit a target
+- Try this game at: https://thientmdenk.itch.io/angryparashoot2d
 
 
 ## Preview Screenshot
